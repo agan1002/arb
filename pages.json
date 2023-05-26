@@ -1,0 +1,183 @@
+{
+	"pages": [{
+				"path": "pages/index/index",
+				"style": {
+					"navigationBarTitleText": "无纸化平台"
+				}
+			}
+			,{
+				"path": "pages/electronic-signature/info-comfirm",
+				"style": {
+					"navigationBarTitleText": "成都市农业农村局"
+				}
+			}
+			,{
+				"path": "pages/electronic-signature/contract-detail",
+				"style": {
+					"navigationBarTitleText": "成都市农业农村局"
+				}
+			}
+			,{
+				"path": "pages/electronic-signature/record",
+				"style": {
+					"navigationBarTitleText": "签署记录"
+				}
+			}
+			,{
+				"path": "pages/electronic-signature/success",
+				"style": {
+					"navigationBarTitleText": "成都市农业农村局"
+				}
+			}
+			,{
+				"path": "pages/enterprise-signature/info-comfirm",
+				"style": {
+					"navigationBarTitleText": "成都市农业农村局"
+				}
+			}
+			,{
+				"path": "pages/enterprise-signature/contract-detail",
+				"style": {
+					"navigationBarTitleText": "成都市农业农村局"
+				}
+			}
+			,{
+				"path": "pages/enterprise-signature/record",
+				"style": {
+					"navigationBarTitleText": "签署记录"
+				}
+			}
+			,{
+				"path": "pages/enterprise-signature/success",
+				"style": {
+					"navigationBarTitleText": "成都市农业农村局"
+				}
+			}
+			,{
+				"path": "pages/contract/contract",
+				"style": {
+					"navigationBarTitleText": "电子签字合同"
+				}
+			}
+			,{
+				"path": "pages/contract-identify/contract-identify",
+				"style": {
+					"navigationBarTitleText": "电子签字合同"
+				}
+			}
+			,{
+				"path": "pages/enterprise-signature/contract-identify",
+				"style": {
+					"navigationBarTitleText": "电子签章"
+				}
+			}
+			,{
+				"path": "pages/enterprise-signature/contract-signature",
+				"style": {
+					"navigationBarTitleText": "电子签章"
+				}
+			}
+			,{
+					"path" : "pages/identify/identify",
+					"style" :                                                                                    
+					{
+							"navigationBarTitleText": "实名认证"
+							,"enablePullDownRefresh": true
+					}
+					
+			},{
+					"path" : "pages/weixinface/weixinface",
+					"style" :                                                                                    
+					{
+							"navigationBarTitleText": "微信实名认证"
+							,"enablePullDownRefresh": true
+					}
+					
+			}
+			
+        ,{
+            "path" : "pages/enterprise/enterprise",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "企业印章",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+				,{
+					"path": "pages/enterprise-identify/enterprise-identify",
+					"style": {
+						"navigationBarTitleText": "企业印章"
+					}
+				}
+        ,{
+            "path" : "pages/identify-oprator/identify-oprator",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "运营商认证",
+                "enablePullDownRefresh": false
+            }
+        }
+				,{
+				    "path" : "pages/identify-person/identify-person",
+				    "style" :                                                                                    
+				    {
+				        "navigationBarTitleText": "人脸认证",
+				        "enablePullDownRefresh": false
+				    }
+				}
+				,{
+            "path" : "pages/identify-face/identify-face",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "人脸认证",
+                "enablePullDownRefresh": false
+            }
+        }
+				,{
+            "path" : "pages/identify-bank/identify-bank",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "银行卡认证",
+                "enablePullDownRefresh": false
+            }
+        }
+        ,{
+            "path" : "pages/identify-result/identify-result",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "验证结果",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/enterprise-info/enterprise-info",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/enterprise-seal/enterprise-seal",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
+	"globalStyle": {
+		"navigationStyle":"custom",
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"app-plus": {
+			"background": "#efeff4"
+		}
+	}
+}
